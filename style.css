@@ -1,5 +1,5 @@
 body {
-  background-color: #885FFF;
+  background-color: gold;
 }
 
 .heading {
@@ -9,19 +9,19 @@ body {
 }
 
 .title {
-  background-color: #333333;
+  
   padding: 5px;
-  color: RED;
+  color: crimson;
 }
 
 #runtime {
   /*background-color: #333333;*/
-  color: floralwhite;
+  color: black;
   padding: 0px 0px 5px 5px;
 }
 
 .content {
-  color: yellow;
+  color: black;
 }
 
 #subtitle {
