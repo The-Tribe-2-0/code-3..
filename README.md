@@ -32,7 +32,7 @@ $ pip install -r requirements.txt To install all requirements
 $ python3 manage.py runserver Then run server with the above command
 
 live link
-https://shimmering-granita-6e9693.netlify.app
+https://shimmering-graniti-6e9693.netlify.app
 
 dependencies
 font awesome icons
